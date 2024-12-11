@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Mohit Sharma  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 📧 **Email:** [mohittsharma475@gmail.com](mailto:mohittsharma475@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/mohit04](http://www.linkedin.com/in/mohit04)  
