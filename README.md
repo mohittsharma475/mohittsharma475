@@ -17,11 +17,22 @@
 
 ---
 
-## 💡 Skills  
+<div style="font-family: Arial, sans-serif; padding: 20px; background-color: #f7f9fc; color: #333; border-radius: 10px; max-width: 600px; line-height: 1.6;">
+  <h2 style="color: #4CAF50; text-align: center;">💻 Skills Summary</h2>
+  
+  <h3 style="color: #3F51B5;">Languages</h3>
+  <p>JavaScript (ES6), TypeScript, HTML, CSS, Node.js, SQL, MongoDB, PostgreSQL</p>
+  
+  <h3 style="color: #3F51B5;">Libraries</h3>
+  <p>React.js, Redux, Redux Toolkit, Jest, Express.js, Micro Front End, Material UI, Super Test</p>
+  
+  <h3 style="color: #3F51B5;">Tools</h3>
+  <p>Kafka, Redis, Webpack, Git, GitHub, RESTful APIs, GraphQL, NPM, Yarn, Postman, Unit & Integration Testing</p>
+  
+  <h3 style="color: #3F51B5;">Other Skills</h3>
+  <p>Object-Oriented Programming (OOPs), Data Structures & Algorithms, Agile Methodologies, Scrum Practices</p>
+</div>
 
-- **🛠️ Tech Stack:** JavaScript (ES6), TypeScript, React.js, Redux, Node.js, SQL, MongoDB  
-- **🔧 Tools:** Kafka, Redis, Webpack, Git, Postman, GraphQL  
-- **📚 Other Skills:** Data Structures & Algorithms, Agile, Scrum  
 
 ---
 
